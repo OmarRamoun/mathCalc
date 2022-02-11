@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import Calculator from './components/Calculator';
-import Clock from './components/Clock';
 
 // eslint-disable-next-line react/prefer-stateless-function
 export default class App extends React.Component {
@@ -12,7 +11,6 @@ export default class App extends React.Component {
           <div className="row mx-0 justify-content-center">
             <div className="col-md-9">
               <Calculator />
-              <Clock updateEveryNSeconds={1} />
             </div>
           </div>
         </div>
