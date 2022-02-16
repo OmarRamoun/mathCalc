@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Render components 1`] = `
+exports[`Test render calculator component Render components 1`] = `
 <div
   className="col-md-9"
 >
@@ -9,6 +9,7 @@ exports[`Render components 1`] = `
   >
     <div
       className="bg-custom1 text-white text-end col-12 py-4 fs-5"
+      data-testid="result"
     >
       0
     </div>

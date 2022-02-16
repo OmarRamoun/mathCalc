@@ -14,7 +14,7 @@ const Calculator = () => {
   return (
     <div className="col-md-9">
       <div className="row mx-0 row-cols-4 text-center">
-        <div className="bg-custom1 text-white text-end col-12 py-4 fs-5">
+        <div className="bg-custom1 text-white text-end col-12 py-4 fs-5" data-testid="result">
           {total}
           {operation}
           {next}
