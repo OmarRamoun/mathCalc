@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render components 1`] = `
+<div
+  className="col-md-9"
+>
+  <div
+    className="row text-end text-white"
+  >
+    <p>
+      17:28:25
+    </p>
+  </div>
+</div>
+`;
