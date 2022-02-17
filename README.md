@@ -41,13 +41,26 @@ To get this project up and running, follow these simple steps:
 
 - Follow the steps described before.
 
+## Run tests
+
+```bash
+npm test
+```
+
 ## Authors
 
-👤 **Dico Diaz Dussan**
+👤 **Ramoun**
 
-- GitHub: [@dicodiaz](https://github.com/dicodiaz)
-- Twitter: [@DicoDiaz1](https://twitter.com/DicoDiaz1)
-- LinkedIn: [Dico Diaz Dussan](https://www.linkedin.com/in/dico-diaz-dussan-476106a6/)
+- **GitHub**: [![@mrramoun](https://img.shields.io/github/followers/MrRamoun?label=Ramoun&style=social)](https://github.com/mrramoun)
+- **Twitter**: [![@ramoun16](https://img.shields.io/twitter/follow/ramoun16?label=ramoun16&style=social)](https://twitter.com/ramoun16)
+- **LinkdIn**: [![@ramoun](https://img.shields.io/github/followers/ramon?label=ramoun&logo=linkedin&style=social)](https://www.linkedin.com/in/ramoun/)```
+
+👤 **Fernando Herrera**
+
+- GitHub: [@fherrerao](https://github.com/fherrerao)
+- LinkedIn: [@fernando](https://www.linkedin.com/in/fernando-herrera-25a6361b2/)
+- Twitter: [@fherrera0206](https://twitter.com/fherrera0206)
+
 
 ## 🤝 Contributing
 
