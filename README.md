@@ -1,27 +1,27 @@
-[![](https://img.shields.io/static/v1?label=BY&message=Reemoz&color=pink)](https://mrramoun.github.io)
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math Calculator
+# Math Magicians
 
-> Single Page Web Application that have the following features:
->
-> - Addition
-> - Subtraction
-> - Multiplication
-> - Division
-> - Modulus
-> - display current time
+> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
-## screenshot
+- Make simple calculations.
+- Read a random math-related quote.
+
+This application is built using React and Bootstrap.
+
+## Mobile
+
+![screenshot](./app_screenshot.png)
+
+## Desktop
 
 ![screenshot](./app_screenshot-2.png)
 
-| *A Screenshot of the Desktop Version of the App*
-
 ## Built With
 
-- Languages: _**HTML5, CSS3**_
-- Frameworks: _**React, Redux, React-Router**_
-- Technologies used: _**GIT, GITHUB, LINTERS**_
+- React
+- VSCode
+- Gitflow & GitHub
 
 ## Getting Started
 
@@ -32,18 +32,41 @@ To get this project up and running, follow these simple steps:
 3. Run `npm install`.
 4. Run `npm start`.
 
+### Prerequisites
+
+- Any modern web browser.
+- Any source-code editor (VSCode recommended).
+
+### Setup
+
+- Follow the steps described before.
+
+## Run tests
+
+```bash
+npm test
+```
+
 ## Authors
+
+👤 **Ramoun**
 
 - **GitHub**: [![@mrramoun](https://img.shields.io/github/followers/MrRamoun?label=Ramoun&style=social)](https://github.com/mrramoun)
 - **Twitter**: [![@ramoun16](https://img.shields.io/twitter/follow/ramoun16?label=ramoun16&style=social)](https://twitter.com/ramoun16)
-- **LinkdIn**: [![@ramoun](https://img.shields.io/github/followers/ramon?label=ramoun&logo=linkedin&style=social)](https://www.linkedin.com/in/ramoun/)
+- **LinkdIn**: [![@ramoun](https://img.shields.io/github/followers/ramon?label=ramoun&logo=linkedin&style=social)](https://www.linkedin.com/in/ramoun/)```
+
+👤 **Fernando Herrera**
+
+- GitHub: [@fherrerao](https://github.com/fherrerao)
+- LinkedIn: [@fernando](https://www.linkedin.com/in/fernando-herrera-25a6361b2/)
+- Twitter: [@fherrera0206](https://twitter.com/fherrera0206)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues).
+Feel free to check the [issues page](https://github.com/mustabbas/TvMovies/issues).
 
 ## Show your support
 

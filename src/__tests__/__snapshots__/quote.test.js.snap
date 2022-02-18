@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render quote component 1`] = `
+<div
+  className="text-white col-9"
+>
+  <p
+    className="lead fs-2"
+  >
+    
+  </p>
+  <button
+    className="btn btn-primary"
+    onClick={[Function]}
+    type="button"
+  >
+    Get another one
+  </button>
+</div>
+`;
